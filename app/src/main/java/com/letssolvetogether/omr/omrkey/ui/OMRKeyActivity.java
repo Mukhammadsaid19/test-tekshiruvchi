@@ -174,7 +174,7 @@ public class OMRKeyActivity extends AppCompatActivity implements RadioButton.OnC
                     return null;
                 }
             }.execute();
-            Toast.makeText(this,"Answers saved",Toast.LENGTH_LONG).show();
+            Toast.makeText(this,"Javoblar saqlandi",Toast.LENGTH_LONG).show();
         }
     }
 }
